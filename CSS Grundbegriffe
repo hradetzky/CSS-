@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <style>
+
+    h1 {background-color: green;
+       color: white;}
+    p {text-align: center; 
+    	color: green;
+  font-family: "Times New Roman", Times, serif;
+}
+
+    </style>
+  </head>
+  
+  
+<body> <h1>Hallo</h1>
+<p> Das ist ein Test</p><body>
+
+
+
+    Hintergrundfarbe:   background-color: Farbe
+    Schriftart:         font-family: "Textart", Times, serif
+    Textausrichtung:    text-align: center/left/right
+    Textfarbe anpassen: color: green
